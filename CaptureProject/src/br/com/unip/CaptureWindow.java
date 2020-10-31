@@ -5,7 +5,6 @@ import java.awt.*;
 import static java.awt.GraphicsDevice.WindowTranslucency.TRANSLUCENT;
 
 public class CaptureWindow {
-    public static CaptureWindow windowReader;
 
     public CaptureWindow(){
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
